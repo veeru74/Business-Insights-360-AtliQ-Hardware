@@ -57,7 +57,7 @@ Understanding the datasets was key to efficient analysis. Data was reviewed for 
 Data was imported from MySQL, with a Snowflake schema for optimal performance. Following good modeling practices ensured a reliable foundation for visuals.
 
 
-![image alt]([https://github.com/user-attachments/assets/b598d9cd-8eef-4b11-81b3-8a9e6d89f27b](https://github.com/veeru74/Business-Insights-360-AtliQ-Hardware/blob/a189c72d900784580f8374f60eee7c95911946b4/Data%20Modeling.png))
+![Data Modeling]([https://github.com/user-attachments/assets/b598d9cd-8eef-4b11-81b3-8a9e6d89f27b](https://github.com/veeru74/Business-Insights-360-AtliQ-Hardware/blob/a189c72d900784580f8374f60eee7c95911946b4/Data%20Modeling.png))
 
 
 ## Dashboard Design
