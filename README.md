@@ -55,3 +55,4 @@ Understanding the datasets was key to efficient analysis. Data was reviewed for 
 
 ## Data Import and Modeling
 Data was imported from MySQL, with a Snowflake schema for optimal performance. Following good modeling practices ensured a reliable foundation for visuals.
+
