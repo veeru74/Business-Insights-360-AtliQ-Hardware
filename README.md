@@ -56,3 +56,30 @@ Understanding the datasets was key to efficient analysis. Data was reviewed for 
 ## Data Import and Modeling
 Data was imported from MySQL, with a Snowflake schema for optimal performance. Following good modeling practices ensured a reliable foundation for visuals.
 
+
+![image alt]([https://github.com/user-attachments/assets/b598d9cd-8eef-4b11-81b3-8a9e6d89f27b](https://github.com/veeru74/Business-Insights-360-AtliQ-Hardware/blob/a189c72d900784580f8374f60eee7c95911946b4/Data%20Modeling.png))
+
+
+## Dashboard Design
+Mockups informed a design focused on clear navigation and segmented views for different departments.
+
+### Home View
+The central hub with buttons for each view, allowing users to quickly access specific sections.
+
+### Views Included
+- **Info**
+- **Finance View**
+- **Sales View**
+- **Marketing View**
+- **Supply Chain View**
+- **Executive Overview**
+- **Support**
+
+
+
+## Project Outcome
+
+This report empowers decision-makers to make informed choices driven by data insights. This dashboard allows stakeholders to explore various metrics and respond to numerous "why" questions related to their specific situations. It facilitates a deeper understanding of performance across key areas such as finance, sales, marketing, and supply chain, ultimately enhancing the organization's strategic initiatives and operational effectiveness.
+
+
+
