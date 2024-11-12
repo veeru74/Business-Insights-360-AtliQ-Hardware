@@ -22,7 +22,7 @@ I worked on this project by following the [Codebasics Power BI Course](https://c
 - **DAX Calculations**: Created calculated columns and measures with functions like `CALCULATE()`, `DIVIDE()`, `FILTER()`, `SWITCH()`.
 - **Interactive Visuals**: Used Bookmarks, buttons for navigation, and dynamic titles.
 - **Data Validation and Error Prevention**: Leveraged data validation techniques and conditional formatting for enhanced accuracy.
-- **Automation and Collaboration**: Published to Power BI Services, with auto-refresh using personal gateway, Power BI App creation, and workspace management.
+- **Automation and Collaboration**: Published to Power BI Services, with auto-refresh using personal gateway, creation of Power BI App, and workspace management.
 
 
 
@@ -41,7 +41,7 @@ Understanding the datasets was key to efficient analysis. Data was reviewed for 
 ### Dataset Tables and Structures
 - **Dimension Tables**:
   - `dim_customer`: Contains 27 markets, 75 customers, two platforms (Brick & Mortar, E-commerce), and three channels (Retailer, Direct, Distributors).
-  - `dim_market`: Geographical data covering 7 sub-zones in regions like APAC, EU, LATAM.
+  - `dim_market`: Geographical data covering 7 sub-zones in regions like APAC, EU, and LATAM.
   - `dim_product`: Product details, including categories and types (e.g., Notebook, Desktop).
   
 - **Fact Tables**:
@@ -81,7 +81,7 @@ The central hub with buttons for each view, allowing users to quickly access spe
 
 ## Project Outcome
 
-This report empowers decision-makers to make informed choices driven by data insights. This dashboard allows stakeholders to explore various metrics and respond to numerous "why" questions related to their specific situations. It facilitates a deeper understanding of performance across key areas such as finance, sales, marketing, and supply chain, ultimately enhancing the organization's strategic initiatives and operational effectiveness.
+This report empowers decision-makers to make informed choices driven by data insights. This dashboard allows stakeholders to explore various metrics and respond to numerous "why" questions about their situations. It facilitates a deeper understanding of performance across key areas such as finance, sales, marketing, and supply chain, ultimately enhancing the organization's strategic initiatives and operational effectiveness.
 
 
 
